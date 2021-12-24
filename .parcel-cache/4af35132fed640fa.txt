@@ -8,7 +8,7 @@
 105D:\Projects\goit-js-hw-08\node_modules\postcss-modules-local-by-default\node_modules\ansi-styles\index.js132846414596021213 0
 87D:\Projects\goit-js-hw-08\node_modules\core-js\es\object\get-own-property-descriptor.js132846415033061119 0
 59D:\Projects\goit-js-hw-08\node_modules\prelude-ls\README.md132846414593268564 0
-38D:\Projects\goit-js-hw-08\package.json132848107936110219 0
+38D:\Projects\goit-js-hw-08\package.json132848119145703942 0
 54D:\Projects\goit-js-hw-08\node_modules\lodash\isSet.js132846414995658079 0
 62D:\Projects\goit-js-hw-08\node_modules\signal-exit\LICENSE.txt132846414634521516 0
 63D:\Projects\goit-js-hw-08\node_modules\jake\lib\publish_task.js132846414657367296 0
@@ -70,7 +70,7 @@
 71D:\Projects\goit-js-hw-08\node_modules\cssnano-utils\dist\sameParent.js132846414640989575 0
 73D:\Projects\goit-js-hw-08\node_modules\caniuse-lite\data\features\opus.js132846415005691906 0
 70D:\Projects\goit-js-hw-08\node_modules\jsdom\lib\jsdom\living\aborting132846414767663641 1
-30D:\Projects\goit-js-hw-08\dist132848110285579184 1
+30D:\Projects\goit-js-hw-08\dist132848119303068055 1
 63D:\Projects\goit-js-hw-08\node_modules\postcss-value-parser\lib132846414687505767 1
 54D:\Projects\goit-js-hw-08\node_modules\core-js\modules132846415061847016 1
 51D:\Projects\goit-js-hw-08\node_modules\bcrypt-pbkdf132846414621082064 1
@@ -13745,7 +13745,7 @@
 65D:\Projects\goit-js-hw-08\node_modules\core-js\es\regexp\split.js132846415054117613 0
 85D:\Projects\goit-js-hw-08\node_modules\core-js\features\reflect\prevent-extensions.js132846415050497970 0
 83D:\Projects\goit-js-hw-08\node_modules\core-js\features\reflect\set-prototype-of.js132846415053109847 0
-47D:\Projects\goit-js-hw-08\dist\03-feedback.html132848110285157064 0
+47D:\Projects\goit-js-hw-08\dist\03-feedback.html132848119303058081 0
 80D:\Projects\goit-js-hw-08\node_modules\core-js\features\reflect\to-string-tag.js132846415058164241 0
 78D:\Projects\goit-js-hw-08\node_modules\core-js\features\promise\all-settled.js132846414778574820 0
 70D:\Projects\goit-js-hw-08\node_modules\core-js\features\promise\any.js132846414808618773 0
@@ -16397,14 +16397,14 @@
 58D:\Projects\goit-js-hw-08\dist\01-gallery.6f462fd0.css.map132848107830816003 0
 54D:\Projects\goit-js-hw-08\dist\01-gallery.f6e49bf9.css132846433766958822 0
 58D:\Projects\goit-js-hw-08\dist\01-gallery.f6e49bf9.css.map132846433766998661 0
-46D:\Projects\goit-js-hw-08\dist\01-gallery.html132848110284887787 0
+46D:\Projects\goit-js-hw-08\dist\01-gallery.html132848119303048099 0
 51D:\Projects\goit-js-hw-08\dist\02-video.176a469b.js132848110285157064 0
 51D:\Projects\goit-js-hw-08\dist\02-video.2151aaeb.js132848107830816003 0
 51D:\Projects\goit-js-hw-08\dist\02-video.2182754d.js132846433766838813 0
 55D:\Projects\goit-js-hw-08\dist\02-video.2182754d.js.map132846433766908633 0
 55D:\Projects\goit-js-hw-08\dist\02-video.8a464a69.js.map132846464076044031 0
 51D:\Projects\goit-js-hw-08\dist\02-video.d5eeaea8.js132848110285147560 0
-44D:\Projects\goit-js-hw-08\dist\02-video.html132848110285147560 0
+44D:\Projects\goit-js-hw-08\dist\02-video.html132848119303058081 0
 58D:\Projects\goit-js-hw-08\dist\03-feedback.2908f44e.js.map132848107830865872 0
 55D:\Projects\goit-js-hw-08\dist\03-feedback.45ededfe.css132846433766838813 0
 54D:\Projects\goit-js-hw-08\dist\03-feedback.bb2531ac.js132848110285157064 0
@@ -16419,4 +16419,4 @@
 49D:\Projects\goit-js-hw-08\dist\index.55763276.css132848107830068022 0
 53D:\Projects\goit-js-hw-08\dist\index.55763276.css.map132848107830107927 0
 53D:\Projects\goit-js-hw-08\dist\index.66b3ed82.css.map132846433766908633 0
-41D:\Projects\goit-js-hw-08\dist\index.html132848110284877889 0
+41D:\Projects\goit-js-hw-08\dist\index.html132848119303058081 0

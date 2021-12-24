@@ -481,7 +481,7 @@
   },
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "parcel build src/index.html --public-url /goit-js-hw-08/"
+    "build": "parcel build src/index.html --public-url https://anastasiales.github.io/goit-js-hw-06/"
   },
   "repository": {
     "type": "git",
