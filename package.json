@@ -6,6 +6,7 @@
   "description": "",
   "version": "1.0.0",
   "default": "index.js",
+  "homepage": "https://anastasiales.github.io/goit-js-hw-08/"
   "dependencies": {
     "@vimeo/player": "^2.16.2",
     "abab": "^2.0.5",
@@ -481,7 +482,7 @@
   },
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "parcel build src/index.html --public-url https://anastasiales.github.io/goit-js-hw-06/"
+    "build": "parcel build src/index.html --public-url /goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
